@@ -19,8 +19,8 @@ else:
 # Список [], Кортедж ()
 n = [1, 2, 3, 'sorry']
 print(n[3])
-print(len[n]))
-n.append
+print(len(n))
+n.append(7)
 print(n)
 # for i in n:
 #    print(i)
